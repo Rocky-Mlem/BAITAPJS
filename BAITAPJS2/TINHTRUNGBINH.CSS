@@ -1,0 +1,28 @@
+.stylene {
+
+    font-weight: bold;
+    font-size: 18px;
+
+    color: grey ;
+    background-color: pink;
+}
+
+.styleform {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+input {
+    display: inline-block;
+    width: 50%;
+    text-align: center;
+}
+
+button {
+    width: 50%;
+    background-color: aquamarine;
+    color: black;
+    border: aquamarine;
+    cursor: pointer;
+}
